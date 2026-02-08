@@ -63,7 +63,7 @@ cd Twitter-Clone-App-React-Native-
 bun install (Bun recomended)
 ```
 
-5. Start the app with casche clear
+5. Start the app with cache clear
 ```
 bun start -c
 ```
@@ -82,6 +82,6 @@ bun start -c
 
 ## 🧑‍💻 Author
 
-Rishik Roy
+**Rishik Roy**
 Frontend / Mobile App Developer
 GitHub: @rishik-24
