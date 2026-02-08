@@ -8,14 +8,6 @@ const all = () => {
     <ScrollView style={styles.Container}>
       <View style={styles.cardPosition}>
         <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
-        <NotificationCards />
       </View>
     </ScrollView>
   );
