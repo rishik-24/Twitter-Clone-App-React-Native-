@@ -48,16 +48,25 @@ This project demonstrates how a social media application is structured using reu
 
 ⚙️ Installation & Setup
 1. Clone the repository
+
+```
 git clone https://github.com/rishik-24/Twitter-Clone-App-React-Native-.git
+```
 
-2. Navigate to the project
+3. Navigate to the project
+```
 cd Twitter-Clone-App-React-Native-
+```
 
-3. Install dependencies
+4. Install dependencies
+```
 bun install (Bun recomended)
+```
 
-4. Start the app with casche clear
+5. Start the app with casche clear
+```
 bun start -c
+```
 
 ---
 
