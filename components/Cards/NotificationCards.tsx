@@ -26,7 +26,7 @@ const NotificationCards = () => {
             style={styles.avatar}
           />
 
-          <Text style={styles.username}>Abhijit Iyer-Mitra</Text>
+          <Text style={styles.username}>Bonnie Davidson</Text>
 
           <Entypo
             name="dots-three-vertical"
