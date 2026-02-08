@@ -42,6 +42,8 @@ This project demonstrates how a social media application is structured using reu
 ├── tsconfig.json
 └── README.md
 
+```
+
 ---
 
 ⚙️ Installation & Setup
