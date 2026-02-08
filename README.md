@@ -1,4 +1,4 @@
-# Twitter Clone App (React Native) 🕊️
+# Twitter Clone App (React Native) 🦜
 
 A modern **Twitter (X) clone** built using **React Native**, focused on clean UI, smooth navigation, and real-world mobile app architecture. This project demonstrates how a social media application is structured using reusable components and scalable design patterns.
 
