@@ -19,7 +19,7 @@ const foryou = () => {
             fontSize: 20,
             color: MyColors.brand.primary,
           }}>
-          For You Page
+          This is "For You" Page
         </Text>
       </View>
     </>
