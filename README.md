@@ -70,18 +70,18 @@ bun start -c
 
 ---
 
-📚 Learning Goals
+## 📚 Learning Goals
 
-Understanding real-world React Native project structure
+- Understanding real-world React Native project structure
 
-Building scalable UI components
+- Building scalable UI components
 
-Practicing mobile UI/UX patterns
+- Practicing mobile UI/UX patterns
 
-Improving app navigation & performance
+- Improving app navigation & performance
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Rishik Roy
+* Rishik Roy
 Frontend / Mobile App Developer
 GitHub: @rishik-24
