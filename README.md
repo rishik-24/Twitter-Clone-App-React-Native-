@@ -82,6 +82,6 @@ bun start -c
 
 ## 🧑‍💻 Author
 
-* Rishik Roy
+** Rishik Roy
 Frontend / Mobile App Developer
 GitHub: @rishik-24
